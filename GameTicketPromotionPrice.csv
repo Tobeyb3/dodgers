@@ -1,0 +1,180 @@
+START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+02/23/26,01:05 PM,03:05 PM,Mariners at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",02/23/26,02/23/26,04:05 PM,06:05 PM,FALSE,TRUE,02/23/26,12:05 PM,02:05 PM,FREE,BUSY
+02/24/26,01:05 PM,03:05 PM,Guardians at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: KTNQ 1020",02/24/26,02/24/26,04:05 PM,06:05 PM,FALSE,TRUE,02/24/26,12:05 PM,02:05 PM,FREE,BUSY
+02/26/26,01:05 PM,03:05 PM,White Sox at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA",02/26/26,02/26/26,04:05 PM,06:05 PM,FALSE,TRUE,02/26/26,12:05 PM,02:05 PM,FREE,BUSY
+02/28/26,01:05 PM,03:05 PM,Cubs at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570",02/28/26,02/28/26,04:05 PM,06:05 PM,FALSE,TRUE,02/28/26,12:05 PM,02:05 PM,FREE,BUSY
+03/01/26,01:05 PM,03:05 PM,Angels at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570",03/01/26,03/01/26,04:05 PM,06:05 PM,FALSE,TRUE,03/01/26,12:05 PM,02:05 PM,FREE,BUSY
+03/04/26,01:05 PM,03:05 PM,Mexico at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA",03/04/26,03/04/26,04:05 PM,06:05 PM,FALSE,TRUE,03/04/26,12:05 PM,02:05 PM,FREE,BUSY
+03/06/26,06:05 PM,08:05 PM,Royals at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA",03/06/26,03/06/26,09:05 PM,11:05 PM,FALSE,TRUE,03/06/26,05:05 PM,07:05 PM,FREE,BUSY
+03/07/26,06:05 PM,08:05 PM,Rockies at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: Dodgers Radio AM570",03/07/26,03/07/26,09:05 PM,11:05 PM,FALSE,TRUE,03/07/26,05:05 PM,07:05 PM,FREE,BUSY
+03/10/26,01:05 PM,04:05 PM,D-backs at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: Dodgers Radio AM570",03/10/26,03/10/26,04:05 PM,07:05 PM,FALSE,TRUE,03/10/26,12:05 PM,03:05 PM,FREE,BUSY
+03/12/26,06:05 PM,09:05 PM,Reds at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA",03/12/26,03/13/26,09:05 PM,12:05 AM,FALSE,TRUE,03/12/26,05:05 PM,08:05 PM,FREE,BUSY
+03/15/26,01:05 PM,04:05 PM,Rangers at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570",03/15/26,03/15/26,04:05 PM,07:05 PM,FALSE,TRUE,03/15/26,12:05 PM,03:05 PM,FREE,BUSY
+03/16/26,01:05 PM,04:05 PM,Brewers at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: Dodgers Radio AM570",03/16/26,03/16/26,04:05 PM,07:05 PM,FALSE,TRUE,03/16/26,12:05 PM,03:05 PM,FREE,BUSY
+03/18/26,01:05 PM,04:05 PM,Giants at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: Dodgers Radio AM570",03/18/26,03/18/26,04:05 PM,07:05 PM,FALSE,TRUE,03/18/26,12:05 PM,03:05 PM,FREE,BUSY
+03/20/26,06:05 PM,09:05 PM,Padres at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570",03/20/26,03/21/26,09:05 PM,12:05 AM,FALSE,TRUE,03/20/26,05:05 PM,08:05 PM,FREE,BUSY
+03/21/26,11:05 AM,02:05 PM,Athletics at Dodgers,Camelback Ranch - Glendale,"Local TV: SportsNet LA",03/21/26,03/21/26,02:05 PM,05:05 PM,FALSE,TRUE,03/21/26,10:05 AM,01:05 PM,FREE,BUSY
+03/23/26,06:10 PM,09:10 PM,Angels at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- ESPN Unlimited ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/23/26,03/24/26,09:10 PM,12:10 AM,FALSE,TRUE,03/23/26,05:10 PM,08:10 PM,FREE,BUSY
+03/24/26,05:10 PM,08:10 PM,Angels at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- MLBN (out-of-market only) ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/24/26,03/24/26,08:10 PM,11:10 PM,FALSE,TRUE,03/24/26,04:10 PM,07:10 PM,FREE,BUSY
+03/26/26,05:30 PM,08:30 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: NBC/Peacock ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/26/26,03/26/26,08:30 PM,11:30 PM,FALSE,TRUE,03/26/26,04:30 PM,07:30 PM,FREE,BUSY
+03/27/26,07:10 PM,10:10 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- MLBN ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/27/26,03/28/26,10:10 PM,01:10 AM,FALSE,TRUE,03/27/26,06:10 PM,09:10 PM,FREE,BUSY
+03/28/26,06:10 PM,09:10 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/28/26,03/29/26,09:10 PM,12:10 AM,FALSE,TRUE,03/28/26,05:10 PM,08:10 PM,FREE,BUSY
+03/30/26,07:10 PM,10:10 PM,Guardians at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/30/26,03/31/26,10:10 PM,01:10 AM,FALSE,TRUE,03/30/26,06:10 PM,09:10 PM,FREE,BUSY
+03/31/26,07:10 PM,10:10 PM,Guardians at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",03/31/26,04/01/26,10:10 PM,01:10 AM,FALSE,TRUE,03/31/26,06:10 PM,09:10 PM,FREE,BUSY
+04/01/26,05:20 PM,08:20 PM,Guardians at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/01/26,04/01/26,08:20 PM,11:20 PM,FALSE,TRUE,04/01/26,04:20 PM,07:20 PM,FREE,BUSY
+04/10/26,07:10 PM,10:10 PM,Rangers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/10/26,04/11/26,10:10 PM,01:10 AM,FALSE,TRUE,04/10/26,06:10 PM,09:10 PM,FREE,BUSY
+04/11/26,06:10 PM,09:10 PM,Rangers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/11/26,04/12/26,09:10 PM,12:10 AM,FALSE,TRUE,04/11/26,05:10 PM,08:10 PM,FREE,BUSY
+04/12/26,01:10 PM,04:10 PM,Rangers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/12/26,04/12/26,04:10 PM,07:10 PM,FALSE,TRUE,04/12/26,12:10 PM,03:10 PM,FREE,BUSY
+04/13/26,07:10 PM,10:10 PM,Mets at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/13/26,04/14/26,10:10 PM,01:10 AM,FALSE,TRUE,04/13/26,06:10 PM,09:10 PM,FREE,BUSY
+04/14/26,07:10 PM,10:10 PM,Mets at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/14/26,04/15/26,10:10 PM,01:10 AM,FALSE,TRUE,04/14/26,06:10 PM,09:10 PM,FREE,BUSY
+04/15/26,07:10 PM,10:10 PM,Mets at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: ESPN/ESPN App ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/15/26,04/16/26,10:10 PM,01:10 AM,FALSE,TRUE,04/15/26,06:10 PM,09:10 PM,FREE,BUSY
+04/24/26,07:15 PM,10:15 PM,Cubs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: Apple TV ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/24/26,04/25/26,10:15 PM,01:15 AM,FALSE,TRUE,04/24/26,06:15 PM,09:15 PM,FREE,BUSY
+04/25/26,04:15 PM,07:15 PM,Cubs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: FOX / FOX ONE ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/25/26,04/25/26,07:15 PM,10:15 PM,FALSE,TRUE,04/25/26,03:15 PM,06:15 PM,FREE,BUSY
+04/26/26,01:10 PM,04:10 PM,Cubs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/26/26,04/26/26,04:10 PM,07:10 PM,FALSE,TRUE,04/26/26,12:10 PM,03:10 PM,FREE,BUSY
+04/27/26,07:10 PM,10:10 PM,Marlins at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/27/26,04/28/26,10:10 PM,01:10 AM,FALSE,TRUE,04/27/26,06:10 PM,09:10 PM,FREE,BUSY
+04/28/26,07:10 PM,10:10 PM,Marlins at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/28/26,04/29/26,10:10 PM,01:10 AM,FALSE,TRUE,04/28/26,06:10 PM,09:10 PM,FREE,BUSY
+04/29/26,12:10 PM,03:10 PM,Marlins at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",04/29/26,04/29/26,03:10 PM,06:10 PM,FALSE,TRUE,04/29/26,11:10 AM,02:10 PM,FREE,BUSY
+05/08/26,07:10 PM,10:10 PM,Braves at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/08/26,05/09/26,10:10 PM,01:10 AM,FALSE,TRUE,05/08/26,06:10 PM,09:10 PM,FREE,BUSY
+05/09/26,06:10 PM,09:10 PM,Braves at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/09/26,05/10/26,09:10 PM,12:10 AM,FALSE,TRUE,05/09/26,05:10 PM,08:10 PM,FREE,BUSY
+05/10/26,01:10 PM,04:10 PM,Braves at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/10/26,05/10/26,04:10 PM,07:10 PM,FALSE,TRUE,05/10/26,12:10 PM,03:10 PM,FREE,BUSY
+05/11/26,07:10 PM,10:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/11/26,05/12/26,10:10 PM,01:10 AM,FALSE,TRUE,05/11/26,06:10 PM,09:10 PM,FREE,BUSY
+05/12/26,07:10 PM,10:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/12/26,05/13/26,10:10 PM,01:10 AM,FALSE,TRUE,05/12/26,06:10 PM,09:10 PM,FREE,BUSY
+05/13/26,07:10 PM,10:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/13/26,05/14/26,10:10 PM,01:10 AM,FALSE,TRUE,05/13/26,06:10 PM,09:10 PM,FREE,BUSY
+05/14/26,07:10 PM,10:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- MLB Network ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/14/26,05/15/26,10:10 PM,01:10 AM,FALSE,TRUE,05/14/26,06:10 PM,09:10 PM,FREE,BUSY
+05/25/26,06:10 PM,09:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/25/26,05/26/26,09:10 PM,12:10 AM,FALSE,TRUE,05/25/26,05:10 PM,08:10 PM,FREE,BUSY
+05/26/26,07:10 PM,10:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/26/26,05/27/26,10:10 PM,01:10 AM,FALSE,TRUE,05/26/26,06:10 PM,09:10 PM,FREE,BUSY
+05/27/26,07:10 PM,10:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/27/26,05/28/26,10:10 PM,01:10 AM,FALSE,TRUE,05/27/26,06:10 PM,09:10 PM,FREE,BUSY
+05/29/26,07:15 PM,10:15 PM,Phillies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: Apple TV ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/29/26,05/30/26,10:15 PM,01:15 AM,FALSE,TRUE,05/29/26,06:15 PM,09:15 PM,FREE,BUSY
+05/30/26,07:10 PM,10:10 PM,Phillies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/30/26,05/31/26,10:10 PM,01:10 AM,FALSE,TRUE,05/30/26,06:10 PM,09:10 PM,FREE,BUSY
+05/31/26,01:10 PM,04:10 PM,Phillies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",05/31/26,05/31/26,04:10 PM,07:10 PM,FALSE,TRUE,05/31/26,12:10 PM,03:10 PM,FREE,BUSY
+06/05/26,07:10 PM,10:10 PM,Angels at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/05/26,06/06/26,10:10 PM,01:10 AM,FALSE,TRUE,06/05/26,06:10 PM,09:10 PM,FREE,BUSY
+06/06/26,07:10 PM,10:10 PM,Angels at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/06/26,06/07/26,10:10 PM,01:10 AM,FALSE,TRUE,06/06/26,06:10 PM,09:10 PM,FREE,BUSY
+06/07/26,01:10 PM,04:10 PM,Angels at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/07/26,06/07/26,04:10 PM,07:10 PM,FALSE,TRUE,06/07/26,12:10 PM,03:10 PM,FREE,BUSY
+06/15/26,07:10 PM,10:10 PM,Rays at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: ESPN/ESPN App ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/15/26,06/16/26,10:10 PM,01:10 AM,FALSE,TRUE,06/15/26,06:10 PM,09:10 PM,FREE,BUSY
+06/16/26,07:10 PM,10:10 PM,Rays at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/16/26,06/17/26,10:10 PM,01:10 AM,FALSE,TRUE,06/16/26,06:10 PM,09:10 PM,FREE,BUSY
+06/17/26,12:10 PM,03:10 PM,Rays at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/17/26,06/17/26,03:10 PM,06:10 PM,FALSE,TRUE,06/17/26,11:10 AM,02:10 PM,FREE,BUSY
+06/19/26,07:10 PM,10:10 PM,Orioles at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/19/26,06/20/26,10:10 PM,01:10 AM,FALSE,TRUE,06/19/26,06:10 PM,09:10 PM,FREE,BUSY
+06/20/26,07:10 PM,10:10 PM,Orioles at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/20/26,06/21/26,10:10 PM,01:10 AM,FALSE,TRUE,06/20/26,06:10 PM,09:10 PM,FREE,BUSY
+06/21/26,01:10 PM,04:10 PM,Orioles at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",06/21/26,06/21/26,04:10 PM,07:10 PM,FALSE,TRUE,06/21/26,12:10 PM,03:10 PM,FREE,BUSY
+07/02/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: MLB Network- SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/02/26,07/03/26,10:10 PM,01:10 AM,FALSE,TRUE,07/02/26,06:10 PM,09:10 PM,FREE,BUSY
+07/03/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/03/26,07/04/26,10:10 PM,01:10 AM,FALSE,TRUE,07/03/26,06:10 PM,09:10 PM,FREE,BUSY
+07/04/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/04/26,07/05/26,10:10 PM,01:10 AM,FALSE,TRUE,07/04/26,06:10 PM,09:10 PM,FREE,BUSY
+07/05/26,04:20 PM,07:20 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: NBC/Peacock ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/05/26,07/05/26,07:20 PM,10:20 PM,FALSE,TRUE,07/05/26,03:20 PM,06:20 PM,FREE,BUSY
+07/06/26,07:10 PM,10:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/06/26,07/07/26,10:10 PM,01:10 AM,FALSE,TRUE,07/06/26,06:10 PM,09:10 PM,FREE,BUSY
+07/07/26,07:10 PM,10:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/07/26,07/08/26,10:10 PM,01:10 AM,FALSE,TRUE,07/07/26,06:10 PM,09:10 PM,FREE,BUSY
+07/08/26,07:10 PM,10:10 PM,Rockies at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/08/26,07/09/26,10:10 PM,01:10 AM,FALSE,TRUE,07/08/26,06:10 PM,09:10 PM,FREE,BUSY
+07/10/26,07:10 PM,10:10 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/10/26,07/11/26,10:10 PM,01:10 AM,FALSE,TRUE,07/10/26,06:10 PM,09:10 PM,FREE,BUSY
+07/11/26,06:10 PM,09:10 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/11/26,07/12/26,09:10 PM,12:10 AM,FALSE,TRUE,07/11/26,05:10 PM,08:10 PM,FREE,BUSY
+07/12/26,01:10 PM,04:10 PM,D-backs at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/12/26,07/12/26,04:10 PM,07:10 PM,FALSE,TRUE,07/12/26,12:10 PM,03:10 PM,FREE,BUSY
+07/28/26,07:10 PM,10:10 PM,Mariners at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/28/26,07/29/26,10:10 PM,01:10 AM,FALSE,TRUE,07/28/26,06:10 PM,09:10 PM,FREE,BUSY
+07/29/26,07:10 PM,10:10 PM,Mariners at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/29/26,07/30/26,10:10 PM,01:10 AM,FALSE,TRUE,07/29/26,06:10 PM,09:10 PM,FREE,BUSY
+07/30/26,07:10 PM,10:10 PM,Mariners at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- MLB Network ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/30/26,07/31/26,10:10 PM,01:10 AM,FALSE,TRUE,07/30/26,06:10 PM,09:10 PM,FREE,BUSY
+07/31/26,07:10 PM,10:10 PM,Red Sox at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",07/31/26,08/01/26,10:10 PM,01:10 AM,FALSE,TRUE,07/31/26,06:10 PM,09:10 PM,FREE,BUSY
+08/01/26,06:10 PM,09:10 PM,Red Sox at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/01/26,08/02/26,09:10 PM,12:10 AM,FALSE,TRUE,08/01/26,05:10 PM,08:10 PM,FREE,BUSY
+08/02/26,04:20 PM,07:20 PM,Red Sox at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: NBC/Peacock ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/02/26,08/02/26,07:20 PM,10:20 PM,FALSE,TRUE,08/02/26,03:20 PM,06:20 PM,FREE,BUSY
+08/10/26,07:10 PM,10:10 PM,Royals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/10/26,08/11/26,10:10 PM,01:10 AM,FALSE,TRUE,08/10/26,06:10 PM,09:10 PM,FREE,BUSY
+08/11/26,07:10 PM,10:10 PM,Royals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/11/26,08/12/26,10:10 PM,01:10 AM,FALSE,TRUE,08/11/26,06:10 PM,09:10 PM,FREE,BUSY
+08/12/26,07:10 PM,10:10 PM,Royals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/12/26,08/13/26,10:10 PM,01:10 AM,FALSE,TRUE,08/12/26,06:10 PM,09:10 PM,FREE,BUSY
+08/13/26,07:10 PM,10:10 PM,Brewers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/13/26,08/14/26,10:10 PM,01:10 AM,FALSE,TRUE,08/13/26,06:10 PM,09:10 PM,FREE,BUSY
+08/14/26,07:10 PM,10:10 PM,Brewers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/14/26,08/15/26,10:10 PM,01:10 AM,FALSE,TRUE,08/14/26,06:10 PM,09:10 PM,FREE,BUSY
+08/15/26,04:15 PM,07:15 PM,Brewers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: FOX / FOX ONE ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/15/26,08/15/26,07:15 PM,10:15 PM,FALSE,TRUE,08/15/26,03:15 PM,06:15 PM,FREE,BUSY
+08/16/26,01:10 PM,04:10 PM,Brewers at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/16/26,08/16/26,04:10 PM,07:10 PM,FALSE,TRUE,08/16/26,12:10 PM,03:10 PM,FREE,BUSY
+08/21/26,07:10 PM,10:10 PM,Pirates at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/21/26,08/22/26,10:10 PM,01:10 AM,FALSE,TRUE,08/21/26,06:10 PM,09:10 PM,FREE,BUSY
+08/22/26,04:15 PM,07:15 PM,Pirates at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: FOX / FOX ONE ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/22/26,08/22/26,07:15 PM,10:15 PM,FALSE,TRUE,08/22/26,03:15 PM,06:15 PM,FREE,BUSY
+08/23/26,01:10 PM,04:10 PM,Pirates at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",08/23/26,08/23/26,04:10 PM,07:10 PM,FALSE,TRUE,08/23/26,12:10 PM,03:10 PM,FREE,BUSY
+09/01/26,07:10 PM,10:10 PM,Cardinals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/01/26,09/02/26,10:10 PM,01:10 AM,FALSE,TRUE,09/01/26,06:10 PM,09:10 PM,FREE,BUSY
+09/02/26,07:10 PM,10:10 PM,Cardinals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/02/26,09/03/26,10:10 PM,01:10 AM,FALSE,TRUE,09/02/26,06:10 PM,09:10 PM,FREE,BUSY
+09/03/26,07:10 PM,10:10 PM,Cardinals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/03/26,09/04/26,10:10 PM,01:10 AM,FALSE,TRUE,09/03/26,06:10 PM,09:10 PM,FREE,BUSY
+09/04/26,07:10 PM,10:10 PM,Nationals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/04/26,09/05/26,10:10 PM,01:10 AM,FALSE,TRUE,09/04/26,06:10 PM,09:10 PM,FREE,BUSY
+09/05/26,06:10 PM,09:10 PM,Nationals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/05/26,09/06/26,09:10 PM,12:10 AM,FALSE,TRUE,09/05/26,05:10 PM,08:10 PM,FREE,BUSY
+09/06/26,07:10 PM,10:10 PM,Nationals at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/06/26,09/07/26,10:10 PM,01:10 AM,FALSE,TRUE,09/06/26,06:10 PM,09:10 PM,FREE,BUSY
+09/07/26,06:10 PM,09:10 PM,Reds at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/07/26,09/08/26,09:10 PM,12:10 AM,FALSE,TRUE,09/07/26,05:10 PM,08:10 PM,FREE,BUSY
+09/08/26,07:10 PM,10:10 PM,Reds at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/08/26,09/09/26,10:10 PM,01:10 AM,FALSE,TRUE,09/08/26,06:10 PM,09:10 PM,FREE,BUSY
+09/09/26,07:10 PM,10:10 PM,Reds at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/09/26,09/10/26,10:10 PM,01:10 AM,FALSE,TRUE,09/09/26,06:10 PM,09:10 PM,FREE,BUSY
+09/18/26,07:10 PM,10:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/18/26,09/19/26,10:10 PM,01:10 AM,FALSE,TRUE,09/18/26,06:10 PM,09:10 PM,FREE,BUSY
+09/19/26,06:10 PM,09:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/19/26,09/20/26,09:10 PM,12:10 AM,FALSE,TRUE,09/19/26,05:10 PM,08:10 PM,FREE,BUSY
+09/20/26,01:10 PM,04:10 PM,Giants at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/20/26,09/20/26,04:10 PM,07:10 PM,FALSE,TRUE,09/20/26,12:10 PM,03:10 PM,FREE,BUSY
+09/22/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/22/26,09/23/26,10:10 PM,01:10 AM,FALSE,TRUE,09/22/26,06:10 PM,09:10 PM,FREE,BUSY
+09/23/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/23/26,09/24/26,10:10 PM,01:10 AM,FALSE,TRUE,09/23/26,06:10 PM,09:10 PM,FREE,BUSY
+09/24/26,07:10 PM,10:10 PM,Padres at Dodgers,UNIQLO Field at Dodger Stadium - Los Angeles,"Local TV: SportsNet LA- MLB Network ----- Local Radio: Dodgers Radio AM570- KTNQ 1020",09/24/26,09/25/26,10:10 PM,01:10 AM,FALSE,TRUE,09/24/26,06:10 PM,09:10 PM,FREE,BUSY
+03/25/27,,,Braves at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/25/27,03/25/27,,,FALSE,TRUE,03/25/27,,,FREE,BUSY
+03/27/27,,,Braves at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/27/27,03/27/27,,,FALSE,TRUE,03/27/27,,,FREE,BUSY
+03/28/27,,,Braves at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/28/27,03/28/27,,,FALSE,TRUE,03/28/27,,,FREE,BUSY
+03/29/27,,,Twins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/29/27,03/29/27,,,FALSE,TRUE,03/29/27,,,FREE,BUSY
+03/30/27,,,Twins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/30/27,03/30/27,,,FALSE,TRUE,03/30/27,,,FREE,BUSY
+03/31/27,,,Twins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",03/31/27,03/31/27,,,FALSE,TRUE,03/31/27,,,FREE,BUSY
+04/13/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/13/27,04/13/27,,,FALSE,TRUE,04/13/27,,,FREE,BUSY
+04/14/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/14/27,04/14/27,,,FALSE,TRUE,04/14/27,,,FREE,BUSY
+04/15/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/15/27,04/15/27,,,FALSE,TRUE,04/15/27,,,FREE,BUSY
+04/16/27,,,Cubs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/16/27,04/16/27,,,FALSE,TRUE,04/16/27,,,FREE,BUSY
+04/17/27,,,Cubs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/17/27,04/17/27,,,FALSE,TRUE,04/17/27,,,FREE,BUSY
+04/18/27,,,Cubs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/18/27,04/18/27,,,FALSE,TRUE,04/18/27,,,FREE,BUSY
+04/26/27,,,White Sox at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/26/27,04/26/27,,,FALSE,TRUE,04/26/27,,,FREE,BUSY
+04/27/27,,,White Sox at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/27/27,04/27/27,,,FALSE,TRUE,04/27/27,,,FREE,BUSY
+04/28/27,,,White Sox at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/28/27,04/28/27,,,FALSE,TRUE,04/28/27,,,FREE,BUSY
+04/30/27,,,Tigers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",04/30/27,04/30/27,,,FALSE,TRUE,04/30/27,,,FREE,BUSY
+05/01/27,,,Tigers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/01/27,05/01/27,,,FALSE,TRUE,05/01/27,,,FREE,BUSY
+05/02/27,,,Tigers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/02/27,05/02/27,,,FALSE,TRUE,05/02/27,,,FREE,BUSY
+05/06/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/06/27,05/06/27,,,FALSE,TRUE,05/06/27,,,FREE,BUSY
+05/07/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/07/27,05/07/27,,,FALSE,TRUE,05/07/27,,,FREE,BUSY
+05/08/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/08/27,05/08/27,,,FALSE,TRUE,05/08/27,,,FREE,BUSY
+05/09/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/09/27,05/09/27,,,FALSE,TRUE,05/09/27,,,FREE,BUSY
+05/17/27,,,Reds at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/17/27,05/17/27,,,FALSE,TRUE,05/17/27,,,FREE,BUSY
+05/18/27,,,Reds at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/18/27,05/18/27,,,FALSE,TRUE,05/18/27,,,FREE,BUSY
+05/19/27,,,Reds at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/19/27,05/19/27,,,FALSE,TRUE,05/19/27,,,FREE,BUSY
+05/21/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/21/27,05/21/27,,,FALSE,TRUE,05/21/27,,,FREE,BUSY
+05/22/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/22/27,05/22/27,,,FALSE,TRUE,05/22/27,,,FREE,BUSY
+05/23/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/23/27,05/23/27,,,FALSE,TRUE,05/23/27,,,FREE,BUSY
+05/24/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/24/27,05/24/27,,,FALSE,TRUE,05/24/27,,,FREE,BUSY
+05/25/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/25/27,05/25/27,,,FALSE,TRUE,05/25/27,,,FREE,BUSY
+05/26/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",05/26/27,05/26/27,,,FALSE,TRUE,05/26/27,,,FREE,BUSY
+06/07/27,,,Brewers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/07/27,06/07/27,,,FALSE,TRUE,06/07/27,,,FREE,BUSY
+06/08/27,,,Brewers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/08/27,06/08/27,,,FALSE,TRUE,06/08/27,,,FREE,BUSY
+06/09/27,,,Brewers at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/09/27,06/09/27,,,FALSE,TRUE,06/09/27,,,FREE,BUSY
+06/11/27,,,Pirates at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/11/27,06/11/27,,,FALSE,TRUE,06/11/27,,,FREE,BUSY
+06/12/27,,,Pirates at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/12/27,06/12/27,,,FALSE,TRUE,06/12/27,,,FREE,BUSY
+06/13/27,,,Pirates at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/13/27,06/13/27,,,FALSE,TRUE,06/13/27,,,FREE,BUSY
+06/18/27,,,Marlins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/18/27,06/18/27,,,FALSE,TRUE,06/18/27,,,FREE,BUSY
+06/19/27,,,Marlins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/19/27,06/19/27,,,FALSE,TRUE,06/19/27,,,FREE,BUSY
+06/20/27,,,Marlins at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/20/27,06/20/27,,,FALSE,TRUE,06/20/27,,,FREE,BUSY
+06/28/27,,,Nationals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/28/27,06/28/27,,,FALSE,TRUE,06/28/27,,,FREE,BUSY
+06/29/27,,,Nationals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/29/27,06/29/27,,,FALSE,TRUE,06/29/27,,,FREE,BUSY
+06/30/27,,,Nationals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",06/30/27,06/30/27,,,FALSE,TRUE,06/30/27,,,FREE,BUSY
+07/01/27,,,Mets at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/01/27,07/01/27,,,FALSE,TRUE,07/01/27,,,FREE,BUSY
+07/02/27,,,Mets at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/02/27,07/02/27,,,FALSE,TRUE,07/02/27,,,FREE,BUSY
+07/03/27,,,Mets at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/03/27,07/03/27,,,FALSE,TRUE,07/03/27,,,FREE,BUSY
+07/04/27,,,Mets at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/04/27,07/04/27,,,FALSE,TRUE,07/04/27,,,FREE,BUSY
+07/16/27,,,Angels at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/16/27,07/16/27,,,FALSE,TRUE,07/16/27,,,FREE,BUSY
+07/17/27,,,Angels at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/17/27,07/17/27,,,FALSE,TRUE,07/17/27,,,FREE,BUSY
+07/18/27,,,Angels at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/18/27,07/18/27,,,FALSE,TRUE,07/18/27,,,FREE,BUSY
+07/19/27,,,Athletics at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/19/27,07/19/27,,,FALSE,TRUE,07/19/27,,,FREE,BUSY
+07/20/27,,,Athletics at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/20/27,07/20/27,,,FALSE,TRUE,07/20/27,,,FREE,BUSY
+07/21/27,,,Athletics at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/21/27,07/21/27,,,FALSE,TRUE,07/21/27,,,FREE,BUSY
+07/30/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/30/27,07/30/27,,,FALSE,TRUE,07/30/27,,,FREE,BUSY
+07/31/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",07/31/27,07/31/27,,,FALSE,TRUE,07/31/27,,,FREE,BUSY
+08/01/27,,,Giants at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/01/27,08/01/27,,,FALSE,TRUE,08/01/27,,,FREE,BUSY
+08/03/27,,,Astros at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/03/27,08/03/27,,,FALSE,TRUE,08/03/27,,,FREE,BUSY
+08/04/27,,,Astros at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/04/27,08/04/27,,,FALSE,TRUE,08/04/27,,,FREE,BUSY
+08/05/27,,,Astros at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/05/27,08/05/27,,,FALSE,TRUE,08/05/27,,,FREE,BUSY
+08/13/27,,,Phillies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/13/27,08/13/27,,,FALSE,TRUE,08/13/27,,,FREE,BUSY
+08/14/27,,,Phillies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/14/27,08/14/27,,,FALSE,TRUE,08/14/27,,,FREE,BUSY
+08/15/27,,,Phillies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/15/27,08/15/27,,,FALSE,TRUE,08/15/27,,,FREE,BUSY
+08/16/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/16/27,08/16/27,,,FALSE,TRUE,08/16/27,,,FREE,BUSY
+08/17/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/17/27,08/17/27,,,FALSE,TRUE,08/17/27,,,FREE,BUSY
+08/18/27,,,Rockies at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/18/27,08/18/27,,,FALSE,TRUE,08/18/27,,,FREE,BUSY
+08/27/27,,,Yankees at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/27/27,08/27/27,,,FALSE,TRUE,08/27/27,,,FREE,BUSY
+08/28/27,,,Yankees at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/28/27,08/28/27,,,FALSE,TRUE,08/28/27,,,FREE,BUSY
+08/29/27,,,Yankees at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/29/27,08/29/27,,,FALSE,TRUE,08/29/27,,,FREE,BUSY
+08/30/27,,,Cardinals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/30/27,08/30/27,,,FALSE,TRUE,08/30/27,,,FREE,BUSY
+08/31/27,,,Cardinals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",08/31/27,08/31/27,,,FALSE,TRUE,08/31/27,,,FREE,BUSY
+09/01/27,,,Cardinals at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/01/27,09/01/27,,,FALSE,TRUE,09/01/27,,,FREE,BUSY
+09/10/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/10/27,09/10/27,,,FALSE,TRUE,09/10/27,,,FREE,BUSY
+09/11/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/11/27,09/11/27,,,FALSE,TRUE,09/11/27,,,FREE,BUSY
+09/12/27,,,Padres at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/12/27,09/12/27,,,FALSE,TRUE,09/12/27,,,FREE,BUSY
+09/13/27,,,Blue Jays at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/13/27,09/13/27,,,FALSE,TRUE,09/13/27,,,FREE,BUSY
+09/14/27,,,Blue Jays at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/14/27,09/14/27,,,FALSE,TRUE,09/14/27,,,FREE,BUSY
+09/15/27,,,Blue Jays at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/15/27,09/15/27,,,FALSE,TRUE,09/15/27,,,FREE,BUSY
+09/16/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/16/27,09/16/27,,,FALSE,TRUE,09/16/27,,,FREE,BUSY
+09/17/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/17/27,09/17/27,,,FALSE,TRUE,09/17/27,,,FREE,BUSY
+09/18/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/18/27,09/18/27,,,FALSE,TRUE,09/18/27,,,FREE,BUSY
+09/19/27,,,D-backs at Dodgers - Time TBD,UNIQLO Field at Dodger Stadium - Los Angeles,"",09/19/27,09/19/27,,,FALSE,TRUE,09/19/27,,,FREE,BUSY

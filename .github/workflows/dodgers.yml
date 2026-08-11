@@ -2,8 +2,9 @@ name: Dodgers Notifier
 
 on:
   schedule:
-    - cron: "0 9 * * *"
-      timezone: "America/Los_Angeles"
+    # GitHub cron is UTC only (no timezone support).
+    # 16:00 UTC = 9:00 AM Pacific during PDT (the baseball season).
+    - cron: "0 16 * * *"
 
   # Lets you manually test it from GitHub
   workflow_dispatch:
@@ -20,9 +21,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
 
       - name: Run Dodgers notifier
         run: python check_dodgers_win.py

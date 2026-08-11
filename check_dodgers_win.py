@@ -20,7 +20,7 @@ import urllib.request
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-CSV_PATH = Path("/Users/tobias/Downloads/GameTicketPromotionPrice.csv")
+CSV_PATH = Path(__file__).with_name("GameTicketPromotionPrice.csv")
 NTFY_URL = "https://ntfy.sh/dodgers"
 DODGERS_TEAM_ID = 119
 LOG_PATH = Path(__file__).with_name("mailer.log")
