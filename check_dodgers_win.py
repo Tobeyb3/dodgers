@@ -23,10 +23,10 @@ from pathlib import Path
 CSV_PATH = Path(__file__).with_name("GameTicketPromotionPrice.csv")
 NTFY_URL = "https://ntfy.sh/dodgers"
 DODGERS_TEAM_ID = 119
-LOG_PATH = Path(__file__).with_name("mailer.log")
+LOG_PATH = Path(__file__).with_name("notifier.log")
 
-EMAIL_SUBJECT = "Dodgers Win! Code DODGERSWIN is active"
-EMAIL_BODY = (
+NTFY_TITLE = "Dodgers Win! Code DODGERSWIN is active"
+NTFY_MESSAGE = (
     "code dodgerswin is active step up to the plate and grab so panda expressly"
 )
 DP_LINE = "\n\ndouble play is in play its time to be habitual with code DODGERS26"
@@ -99,16 +99,16 @@ def turned_double_play(game_pk: int) -> bool:
     return False
 
 
-def send_ntfy(subject: str, body: str) -> None:
-    """Publish to the ntfy.sh topic (equivalent of curl -d body -H Title: ...)."""
+def send_ntfy(title: str, message: str) -> None:
+    """Publish to the ntfy.sh topic (equivalent of curl -d message -H Title: ...)."""
     req = urllib.request.Request(
         NTFY_URL,
-        data=body.encode("utf-8"),
-        headers={"Title": subject},
+        data=message.encode("utf-8"),
+        headers={"Title": title},
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         resp.read()
-    log(f"ntfy notification sent to {NTFY_URL}: {subject}")
+    log(f"ntfy notification sent to {NTFY_URL}: {title}")
 
 
 def main() -> int:
@@ -153,12 +153,12 @@ def main() -> int:
             )
             continue
         log(f"{target}: Dodgers WON {score} vs {g['opponent']} (double play: {dp})")
-        body = EMAIL_BODY + DP_LINE if dp else EMAIL_BODY
+        body = NTFY_MESSAGE + DP_LINE if dp else NTFY_MESSAGE
         if args.dry_run:
-            log(f"DRY RUN — would send: {EMAIL_SUBJECT}")
+            log(f"DRY RUN — would send: {NTFY_TITLE}")
             print("\n" + body + "\n")
         else:
-            send_ntfy(EMAIL_SUBJECT, body)
+            send_ntfy(NTFY_TITLE, body)
     return 0
 
 

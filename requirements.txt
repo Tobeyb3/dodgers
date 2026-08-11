@@ -1,0 +1,2 @@
+# No third-party dependencies — check_dodgers_win.py uses only the Python
+# standard library. Add packages here if that changes.

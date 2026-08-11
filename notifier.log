@@ -26,3 +26,8 @@
 [2026-08-09 15:57:26] 2026-08-05: no home game in schedule CSV; nothing to do
 [2026-08-09 15:57:31] ntfy notification sent to https://ntfy.sh/dodgers: Dodgers notifier test
 [2026-08-10 10:00:08] 2026-08-09: no home game in schedule CSV; nothing to do
+[2026-08-11 09:47:56] 2026-08-05: no home game in schedule CSV; nothing to do
+[2026-08-11 09:47:57] 2026-08-10: Dodgers WON 6-5 vs Kansas City Royals (double play: True)
+[2026-08-11 09:47:57] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-11 09:50:42] 2026-08-10: Dodgers WON 6-5 vs Kansas City Royals (double play: True)
+[2026-08-11 09:50:42] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
