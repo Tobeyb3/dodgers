@@ -1,0 +1,28 @@
+[2026-08-06 09:54:42] 2026-08-01: Dodgers lost 2-3 to Boston Red Sox; no email
+[2026-08-06 09:54:42] 2026-08-02: Dodgers lost 4-8 to Boston Red Sox; no email
+[2026-08-06 09:54:42] 2026-08-04: no home game in schedule CSV; nothing to do
+[2026-08-06 09:55:23] 2026-07-11: Dodgers lost 2-9 to Arizona Diamondbacks; no email
+[2026-08-06 09:55:23] 2026-07-12: Dodgers lost 3-5 to Arizona Diamondbacks; no email
+[2026-08-06 09:55:24] 2026-07-28: Dodgers lost 6-7 to Seattle Mariners; no email
+[2026-08-06 09:55:24] 2026-07-29: Dodgers WON 4-2 vs Seattle Mariners
+[2026-08-06 09:55:24] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 09:55:24] 2026-07-30: Dodgers WON 6-2 vs Seattle Mariners
+[2026-08-06 09:55:24] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 09:55:24] 2026-07-31: Dodgers lost 4-9 to Boston Red Sox; no email
+[2026-08-06 10:18:41] 2026-07-29: Dodgers WON 4-2 vs Seattle Mariners (double play: True)
+[2026-08-06 10:18:41] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 10:18:42] 2026-07-30: Dodgers WON 6-2 vs Seattle Mariners (double play: False)
+[2026-08-06 10:18:42] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 10:18:42] 2026-08-01: Dodgers lost 2-3 to Boston Red Sox (double play: True); no email
+[2026-08-06 10:24:38] 2026-07-29: Dodgers WON 4-2 vs Seattle Mariners (double play: True)
+[2026-08-06 10:24:38] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 10:25:23] Mail.app send failed (Command '['osascript', '-e', '\n    tell application "Mail"\n        set theMessage to make new outgoing message with properties {subject:"Dodgers win mailer \\u2014 test", content:"hi nick", visible:false}\n        tell theMessage\n            make new to recipient at end of to recipients with properties {address:"tobeybongar8@gmail.com"}\n            make new to recipient at end of to recipients with properties {address:"Niwolfe02@gmail.com"}\n            send\n        end tell\n    end tell\n    ']' returned non-zero exit status 1.); trying `mail` command
+[2026-08-06 10:25:23] Email sent via mail(1): Dodgers win mailer — test
+[2026-08-06 10:33:15] 2026-07-29: Dodgers WON 4-2 vs Seattle Mariners (double play: True)
+[2026-08-06 10:33:15] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 10:38:33] 2026-07-29: Dodgers WON 4-2 vs Seattle Mariners (double play: True)
+[2026-08-06 10:38:33] DRY RUN — would send: Dodgers Win! Code DODGERSWIN is active
+[2026-08-06 10:40:35] Email sent to 2 recipients: Dodgers win mailer — test
+[2026-08-09 15:57:26] 2026-08-05: no home game in schedule CSV; nothing to do
+[2026-08-09 15:57:31] ntfy notification sent to https://ntfy.sh/dodgers: Dodgers notifier test
+[2026-08-10 10:00:08] 2026-08-09: no home game in schedule CSV; nothing to do
