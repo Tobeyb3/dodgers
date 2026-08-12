@@ -3,8 +3,9 @@ name: Dodgers Notifier
 on:
   schedule:
     # GitHub cron is UTC only (no timezone support).
-    # 16:00 UTC = 9:00 AM Pacific during PDT (the baseball season).
-    - cron: "0 16 * * *"
+    # 14:07 UTC = 7:07 AM Pacific during PDT (the baseball season).
+    # Off the top of the hour to avoid GitHub's peak scheduling load.
+    - cron: "7 14 * * *"
 
   # Lets you manually test it from GitHub
   workflow_dispatch:
