@@ -26,9 +26,7 @@ DODGERS_TEAM_ID = 119
 LOG_PATH = Path(__file__).with_name("notifier.log")
 
 NTFY_TITLE = "Dodgers Win! Code DODGERSWIN is active"
-NTFY_MESSAGE = (
-    "code dodgerswin is active step up to the plate and grab so panda expressly"
-)
+NTFY_MESSAGE = "code dodgerswin is active step up to the plate and grab panda expressly"
 DP_LINE = "\n\ndouble play is in play its time to be habitual with code DODGERS26"
 
 
