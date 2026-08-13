@@ -1,16 +1,4 @@
 #!/usr/bin/env python3
-"""Dodgers home-game win notifier.
-
-Run daily by cron. Checks whether the date in question (yesterday by
-default) was a Dodgers home game per the promotion schedule CSV; if the
-Dodgers won that game, publishes the promo message to ntfy.sh/dodgers.
-Losses and off-days do nothing.
-
-Usage:
-  check_dodgers_win.py                 # check yesterday's date
-  check_dodgers_win.py --date 2026-08-05
-  check_dodgers_win.py --date 2026-08-05 --dry-run   # print, don't send
-"""
 
 import argparse
 import csv
